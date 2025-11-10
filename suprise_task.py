@@ -1,4 +1,4 @@
-# =====================================================
+# ====================================================
 # 📊 HackBio Stage 1 – Figures 1A–F
 # Author: Ayşenur Akcan
 # Description: Reproduction of figures using Pandas, Seaborn, and Matplotlib
